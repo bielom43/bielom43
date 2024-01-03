@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Gabriel Ferreira dos Santos<br>👀 I’m interested in mobile and back-end development<br>🌱 I’m currently learning Dart/Flutter<br>📫 How to reach me: bielom43@gmail.com<br>🔗Linkedin: Gabriel Ferreira dos Santos - https://www.linkedin.com/in/gabriel-ferreira-dos-santos-949757208/ -
+👋 Hi, I’m @Gabriel Ferreira dos Santos<br>👀 I’m interested in mobile and back-end development<br>🌱 I’m currently learning Dart/Flutter<br>📫 How to reach me: bielom43@gmail.com<br>🔗Linkedin: Gabriel Ferreira dos Santos - [https://www.linkedin.com/in/gabriel-ferreira-dos-santos-949757208/](https://www.linkedin.com/in/gabriel-santos-949757208/) -
 
 
 ## 🌐 Socials:
